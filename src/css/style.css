@@ -140,7 +140,7 @@ ul.main_nav_list {
   width: 50vw;
   height: 100vh;
   background: #fff;
-  z-index: 12;
+  z-index: 10000;
   transition: all 0.6s ease;
   visibility: visible;
   opacity: 1;
